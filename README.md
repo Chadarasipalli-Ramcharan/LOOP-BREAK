@@ -52,7 +52,7 @@ Use Echoes to activate switches, hold pressure plates, distract guards, collect 
 
 ## 🚀 Live Website
 
-> **https://rc18.vercel.app/**
+> **https://loop-break-psi.vercel.app/**
 
 ---
 
